@@ -9,3 +9,4 @@ public class SpringBootHJDemoUreport2Application {
         SpringApplication.run(SpringBootHJDemoUreport2Application.class,args);
     }
 }
+
