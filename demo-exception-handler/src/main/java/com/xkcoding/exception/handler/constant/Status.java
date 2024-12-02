@@ -2,14 +2,6 @@ package com.xkcoding.exception.handler.constant;
 
 import lombok.Getter;
 
-/**
- * <p>
- * 状态码封装
- * </p>
- *
- * @author yangkai.shen
- * @date Created in 2018-10-02 21:02
- */
 @Getter
 public enum Status {
     /**

@@ -24,7 +24,7 @@ public class SpringBootDemoHelloworldApplication {
     }
 
     /**
-     * Hello，World
+     * Hello，World.
      *
      * @param who 参数，非必须
      * @return Hello, ${who}

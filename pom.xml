@@ -70,6 +70,68 @@
     <module>demo-https</module>
     <module>demo-flyway</module>
     <module>demo-pay</module>
+    <module>demo_hj8001</module>
+    <module>demo_HJ8101_actuator</module>
+    <module>demo_HJ8103_admin_client</module>
+    <module>demo_HJ8105_logback</module>
+    <module>demo_HJ8106_log_aop</module>
+    <module>demo_HJ8107_exception_handler</module>
+    <module>demo_HJ8108_template_freemarker</module>
+    <module>demo_HJ8109_template_thymeleaf</module>
+    <module>demo_HJ8110_template_beetl</module>
+    <module>demo_HJ8111_template_enjoy</module>
+    <module>demo_HJ8112_orm_jdbctemplate</module>
+    <module>demo_HJ8113_orm_jpa</module>
+    <module>demo_HJ8114_orm_mybatis</module>
+    <module>demo_HJ8115_orm_mybatis_mapper_page</module>
+    <module>demo_HJ8117_orm_mybatis_plus</module>
+    <module>demo_HJ8118_orm_beetlsql</module>
+    <module>demo_HJ8119_upload</module>
+    <module>demo_HJ8200_cache_redis</module>
+    <module>demo_HJ8201_cache_ehcache</module>
+    <module>demo_HJ8202_email</module>
+    <module>demo_HJ8203_task</module>
+    <module>demo_HJ8204_task_quartz</module>
+    <module>demo_HJ8205_task_xxl_job</module>
+    <module>demo_HJ8206_swagger</module>
+    <module>demo_HJ8207_swagger_beauty</module>
+    <module>demo_HJ8208_rbac_security</module>
+    <module>demo_HJ8209_rbac_shiro</module>
+    <module>demo_HJ8300_session</module>
+    <module>demo_HJ8301_oauth</module>
+    <module>demo_HJ8303_social</module>
+      <module>demo_HJ8304_zookeeper</module>
+      <module>demo_HJ8305_mq_rabbitmq</module>
+    <module>demo_HJ8306_mq_rocketmq</module>
+      <module>demo_HJ8307_mq_kafka</module>
+    <module>demo_HJ8308_websocket</module>
+      <module>demo_HJ8309_websocket_socketio</module>
+      <module>demo_HJ8401_ureport2</module>
+    <module>demo_HJ8402_uflo</module>
+    <module>demo_HJ8403_urule</module>
+    <module>demo_HJ8404_activiti</module>
+      <module>demo_HJ8405_async</module>
+      <module>demo_HJ8406_war</module>
+      <module>demo_HJ8407_elasticsearch</module>
+      <module>demo_HJ8408_dubbo</module>
+      <module>demo_HJ8406_war/dubbo_common</module>
+    <module>demo_HJ8410_mongodb</module>
+    <module>demo_HJ8411_neo4j</module>
+    <module>demo_HJ8412_docker</module>
+    <module>demo_HJ8413_multi_datasource_jpa</module>
+      <module>demo_HJ8414_sharding_jdbc</module>
+    <module>demo_HJ8415_tio</module>
+    <module>demo_HJ8416_grpc</module>
+    <module>demo_HJ8417_codegen</module>
+    <module>demo_HJ8418_graylog</module>
+    <module>demo_HJ8419_ldap</module>
+      <module>demo_HJ8500_dynamic_datasource</module>
+    <module>demo_HJ8501_ratelimit_guava</module>
+      <module>demo_HJ8503_ratelimit_redis</module>
+      <module>demo_HJ8504_https</module>
+      <module>demo_HJ8505_elasticsearch_rest_high_level_client</module>
+      <module>demo_HJ8506_flyway</module>
+    <module>demo_HJ8507_ureport2</module>
   </modules>
   <packaging>pom</packaging>
 
